@@ -15,7 +15,6 @@ and giving state of art results with huge reduction in time for modeling .Ofcour
 - Python
 - Keras
 - Matplotlib
-- Scikit-learn
 - Convolution Neural Network
 
 
