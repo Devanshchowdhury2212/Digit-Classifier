@@ -47,4 +47,5 @@ Exploring Computer vision fundamentals thorugh CNN and various Image Processing 
 
 ## Link to Kaggle Notebook
 https://www.kaggle.com/devanshchowdhury/digit-classfier-acc-99?scriptVersionId=65573189
-## Link to Kaggle Comper
+## Link to Kaggle Competetion
+https://www.kaggle.com/c/digit-recognizer
