@@ -44,3 +44,7 @@ Exploring Computer vision fundamentals thorugh CNN and various Image Processing 
 | CNN model with Data Augmentation (Dense Layers Addition)			| 99.49 %               | 99.31 %                 | 99.428 %              |
 | CNN model with Data Augmentation (Final Hyperparameters tweak)			| 99.57 %               | 99.06 %                 | 98.935 %              |
 | STACKED PREDICITONS								| -                     | -			 | 99.589 %		|
+
+## Link to Kaggle Notebook
+https://www.kaggle.com/devanshchowdhury/digit-classfier-acc-99?scriptVersionId=65573189
+## Link to Kaggle Comper
